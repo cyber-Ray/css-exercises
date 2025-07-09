@@ -1,21 +1,21 @@
 .odd-class, #two, #four {
-    font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .odd-class{
-    background-color: #ea7a9a;
+  background-color: #ea7a9a;
 }
 
 #two {
-    color: #0000ff;
-    font-size: 36px;
+  color: #0000ff;
+  font-size: 36px;
 }
 
 .size {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 #four {
-    background-color: #00a900;
-    font-weight: bold;
+  background-color: #00a900;
+  font-weight: bold;
 }
